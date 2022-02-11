@@ -33,7 +33,7 @@ def gcd():
 ```
 
 ## Output:
-![githublogo](gcd.png)
+![githublogo](gccd.jpg)
 
 
 ## Result:
